@@ -1,39 +1,144 @@
 {
   "dogs": [
     {
-      "name": "Cydney",
-      "image": "/src/assets/blue-heeler.png",
-      "description": "East Oro Bugatti South Supervisor Product cumbersome",
+      "name": "Terrence",
+      "image": "/src/assets/cowardly.png",
+      "description": "velit rapidly South gold Tricycle World inferior Sedan",
+      "isFavorite": false,
+      "id": 0
+    },
+    {
+      "name": "Aisha",
+      "image": "/src/assets/cowardly.png",
+      "description": "Diesel Okey Intelligent Shirt International",
+      "isFavorite": false,
+      "id": 4
+    },
+    {
+      "name": "Cecil",
+      "image": "/src/assets/corgi.png",
+      "description": "Bronze online Awesome Volvo bluetooth rapidly Leone Road",
+      "isFavorite": true,
+      "id": 5
+    },
+    {
+      "name": "Cecelia",
+      "image": "/src/assets/dalmation.png",
+      "description": "JSON Recumbent Territory male Kohler Metal Account",
       "isFavorite": true,
       "id": 6
     },
     {
-      "name": "Jalon",
-      "image": "/src/assets/blue-heeler.png",
-      "description": "Innovative Money Tuna Palladium Handmade Tricycle versus black",
+      "name": "Wilma",
+      "image": "/src/assets/cowardly.png",
+      "description": "Liberia Southeast challenge AGP turquoise underneath Executive",
       "isFavorite": false,
       "id": 7
     },
     {
-      "name": "Juanita",
-      "image": "/src/assets/dalmation.png",
-      "description": "redefine online feed bus unaccountably Hybrid Turnpike",
+      "name": "Fausto",
+      "image": "/src/assets/blue-heeler.png",
+      "description": "synthesize Mouse payment barge Bicycle Executive lightly grey",
+      "isFavorite": false,
+      "id": 8
+    },
+    {
+      "name": "Leatha",
+      "image": "/src/assets/corgi.png",
+      "description": "Lamborghini Creative Georgia who Trans Usability Rest Gasoline",
       "isFavorite": true,
       "id": 9
     },
     {
-      "name": "Laurine",
+      "name": "Tyrese",
+      "image": "/src/assets/blue-heeler.png",
+      "description": "Handcrafted Peso Kia Oriental Northeast South SUV Metrics",
+      "isFavorite": false,
+      "id": 10
+    },
+    {
+      "name": "Kailyn",
       "image": "/src/assets/corgi.png",
-      "description": "Sausages pfft Rolls navigating male",
+      "description": "cupiditate Pennsylvania Arkansas via Polestar South reconstitute juicy",
       "isFavorite": true,
+      "id": 11
+    },
+    {
+      "name": "Isaias",
+      "image": "/src/assets/corgi.png",
+      "description": "innovate payment Americium Account siemens",
+      "isFavorite": true,
+      "id": 12
+    },
+    {
+      "name": "Aiyana",
+      "image": "/src/assets/dalmation.png",
+      "description": "phew groupware Small Soap Comoros sensor lest bypassing",
+      "isFavorite": true,
+      "id": 13
+    },
+    {
+      "name": "Carlotta",
+      "image": "/src/assets/chihuahua.avif",
+      "description": "Chief SUV Metal Sleek Pants Arvada circuit Extended",
+      "isFavorite": true,
+      "id": 14
+    },
+    {
+      "name": "Evert",
+      "image": "/src/assets/blue-heeler.png",
+      "description": "SSD Naira white Account orator Southeast port",
+      "isFavorite": true,
+      "id": 15
+    },
+    {
+      "name": "Polly",
+      "image": "/src/assets/boxer.png",
+      "description": "Integrated Israeli pink West Universal",
+      "isFavorite": true,
+      "id": 16
+    },
+    {
+      "name": "Eleazar",
+      "image": "/src/assets/cowardly.png",
+      "description": "Program Branding compelling Male sharply radian minima wireless",
+      "isFavorite": false,
+      "id": 17
+    },
+    {
+      "name": "Desmond",
+      "image": "/src/assets/dalmation.png",
+      "description": "zero actually Southwest Rock white Sausages PCI",
+      "isFavorite": false,
       "id": 18
     },
     {
-      "name": "Jim",
-      "description": "Jim is a dog, a very cute dog",
+      "name": "Simeon",
+      "image": "/src/assets/boxer.png",
+      "description": "Seaborgium lift Bicycle pfft Mexico East astride copy",
       "isFavorite": false,
-      "image": "/src/assets/chihuahua.avif",
+      "id": 19
+    },
+    {
+      "name": "bantha",
+      "description": "this is a bantha",
+      "isFavorite": false,
+      "image": "/src/assets/dalmation.png",
       "id": 20
+    },
+    {
+      "name": "monkey lizard",
+      "description": "this is a monkey lizard",
+      "isFavorite": true,
+      "image": "/src/assets/corgi.png",
+      "id": 21
+    },
+    {
+      "name": "wookiee",
+      "description": "this is a wookiee",
+      "isFavorite": false,
+      "image": "/src/assets/cowardly.png",
+      "id": 22
     }
   ]
 }
